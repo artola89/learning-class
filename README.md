@@ -1,3 +1,3 @@
 # learning-class
-class everyday to learn programing
+class everyday to learn programming
 first day
